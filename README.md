@@ -2,7 +2,7 @@
 Simple Snake game coded in javascript.
 
 # Objective
-The game was made as an introduction of the language Javascript and learn the basic of it.
+The game was made as an introduction of the language Javascript and to learn the basic of it.
 
 # What did i learn?
  * The basic syntax of the language:
