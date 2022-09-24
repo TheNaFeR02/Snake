@@ -6,8 +6,8 @@ The game was made as an introduction of the language Javascript and learn the ba
 
 # What did i learn?
  * The basic syntax of the language:
- * Basic propierties: Variables, flow control, functions, selectors, What the DOM is...
- * how OOP works in the language.
+ * Basic propierties: Variables, flow control, functions, selectors, what the DOM is...
+ * How OOP works in the language.
   
  
 
